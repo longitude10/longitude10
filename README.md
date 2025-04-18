@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about building **impactful technology** tha
 
 <h2>⚙️ Featured Projects</h2>
 
-- <b>🔍 IRIS (Integrated Shrimp Scan)</b>  
+- <b> 🦐 IRIS (Integrated Shrimp Scan)</b>  
   A smart vision system for monitoring and analyzing shrimp populations using Raspberry Pi and CNN-based detection.  
   [🔗 GitHub Repository](https://github.com/longitude10/iris.git)
 
